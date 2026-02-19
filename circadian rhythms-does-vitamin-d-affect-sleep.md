@@ -1,0 +1,20 @@
+Sleep quality is shaped by hormones, light exposure, inflammation, and nutrition. Among micronutrients, vitamin D has gained attention for its potential role in sleep regulation, given widespread deficiency and the presence of vitamin D receptors in brain regions that govern circadian rhythms.
+
+Vitamin D is synthesized in the skin during UVB exposure and converted in the liver and kidney to active metabolites that bind vitamin D receptors (VDRs) throughout the body, including the hypothalamus and other sleep-related centers. Mechanistically, vitamin D may influence sleep via several pathways: modulation of inflammatory cytokines that disrupt sleep, effects on the serotonin–melatonin pathway, and interactions with clock gene expression that help synchronize circadian timing.
+
+Observational studies frequently report associations between low serum 25(OH)D levels and poorer sleep outcomes—shorter total sleep time, greater sleep fragmentation, and increased daytime sleepiness. A number of randomized trials have tested vitamin D supplementation with mixed but sometimes promising results: several trials report modest improvements in sleep duration and efficiency among individuals who were deficient at baseline. Heterogeneity in study design, baseline vitamin D status, dosing regimens, and concurrent lifestyle factors likely explains inconsistent findings across the literature.
+
+Because circadian timing depends strongly on light exposure, vitamin D’s link to sunlight may be particularly relevant. Daylight exposure both supports cutaneous vitamin D production and helps entrain the central clock, improving melatonin onset and morning cortisol rhythms. Practical guidance emphasizes morning outdoor light for circadian alignment alongside strategies to correct insufficiency when sun exposure is inadequate.
+
+Clinical implications
+
+- Testing: Serum 25(OH)D measurement can identify deficiency that might plausibly contribute to sleep complaints, especially in older adults, shift workers, or people with limited sun exposure.  
+- Supplementation: For individuals with confirmed deficiency, supplementation to reach adequate levels may be considered as part of a broader sleep-improvement plan. Evidence suggests benefits are more likely when baseline levels are low.  
+- Timing: Some experts advise daytime dosing to align with circadian biology, although data are limited.  
+- Multi-factor approach: Addressing sleep typically requires combined lifestyle interventions—consistent light exposure, sleep hygiene, and management of comorbid conditions—rather than relying on a single nutrient.
+
+For readers interested in broader guidance on supplement selection and monitoring, review resources on choosing appropriate dietary supplements (<a href='https://topvitamine.github.io/topvitamins/unlocking-secrets-choosing-perfect-dietary-supplements'>Choosing dietary supplements</a>) and on how to evaluate whether a supplement is working (<a href='https://topvitamine.github.io/topvitamins/how-to-tell-if-a-nutritional-supplement-is-working'>How to tell if a nutritional supplement is working</a>). An accessible primer on evaluating supplement effects is also available at <a href='https://telegra.ph/How-to-Tell-If-a-Nutritional-Supplement-Is-Working-for-You-12-31'>this Telegra.ph guide</a>. For an overview published on this site, see [Does vitamin D affect sleep?](https://www.topvitamine.com/blogs/news/does-vitamin-d-affect-sleep) and additional resources at <a href='https://www.topvitamine.com'>Topvitamine</a>.
+
+Conclusion
+
+Current evidence supports an association between vitamin D status and sleep health, with the strongest signals in people who are deficient. While causality is not fully established, measuring and correcting vitamin D insufficiency can be a reasonable component of a comprehensive strategy to improve sleep, alongside light exposure, behavioral measures, and management of underlying medical conditions.
