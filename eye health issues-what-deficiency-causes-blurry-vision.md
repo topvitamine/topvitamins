@@ -1,0 +1,21 @@
+## What deficiency causes blurry vision?
+
+Blurry vision is a common symptom with many potential causes, including refractive errors, ocular disease, medication effects, and nutritional deficiencies. This article focuses on nutrient-related causes of blurred vision, summarizing the evidence for specific micronutrient shortfalls that can impair visual function and offering guidance on recognition and prevention.
+
+Nutrient deficiencies affect the eye through several mechanisms: disrupting the visual cycle, increasing oxidative stress, impairing tear production, and altering cell membrane composition in the retina. Among the nutrients most consistently linked with visual symptoms are vitamin A, B vitamins (especially B12 and riboflavin/B2), antioxidants (vitamin C and E), zinc, magnesium, and omega-3 fatty acids (DHA/EPA).
+
+Vitamin A is a primary culprit when blurred vision arises from nutritional causes. It is essential for the production of rhodopsin, the photopigment used in low-light vision, and for maintaining healthy ocular surface epithelium. Deficiency can cause night blindness, dry eyes (xerophthalmia), corneal damage, and blurred vision. In severe or prolonged cases corneal scarring and permanent vision loss may follow.
+
+B12 deficiency can produce neurological visual disturbances by damaging the optic nerve, leading to progressive blurring and field defects if untreated. Riboflavin (B2) deficiency is associated with increased light sensitivity and ocular fatigue, which may be experienced as intermittent blurring. Older adults, strict vegetarians, and people with malabsorption are at higher risk for B12 deficiency.
+
+Antioxidants such as vitamin C and vitamin E and trace minerals like zinc and selenium help protect the lens and retina from oxidative damage. Low levels have been associated with accelerated cataract formation and may worsen retinal conditions such as age-related macular degeneration (AMD). The Age-Related Eye Disease Study (AREDS and AREDS2) provides clinical evidence that specific combinations of antioxidants, zinc, and carotenoids can slow progression of intermediate and advanced AMD.
+
+Omega-3 fatty acids, particularly DHA, are structural components of retinal cell membranes and contribute to photoreceptor function. Insufficient DHA intake has been linked to decreased visual acuity and may exacerbate dry eye symptoms that contribute to fluctuating or blurred vision.
+
+Clinical signs that suggest a nutritional contribution to blurry vision include night blindness, persistent dry or burning eyes, gradual optic neuropathy, and visual fatigue not fully explained by refractive error or screen use. Diagnosis typically involves a comprehensive eye exam and targeted blood tests (for vitamin A, B12, vitamin D, and essential fatty acids), along with assessment of diet and absorption issues.
+
+Addressing nutrient-related blurry vision usually begins with dietary optimization—adding sources of preformed vitamin A (eggs, dairy, liver where appropriate), leafy greens and carotenoid-rich vegetables, oily fish for omega-3s, and fortified or B12-containing foods for at-risk groups. For some individuals, guided supplementation or management of malabsorption conditions is necessary. For a more detailed overview, consult this summary on nutritional causes of blurred vision: [What deficiency causes blurry vision?](https://www.topvitamine.com/blogs/news/what-deficiency-causes-blurry-vision).
+
+Further reading on related topics can be found in resources about adaptogens and stress resilience (<a href='https://topvitamine.github.io/topvitamins/unlock-the-power-of-adaptogens-to-combat-modern-stress'>Unlock the power of adaptogens</a>), vitamin D optimization (<a href='https://topvitamine.github.io/topvitamins/unlocking-secrets-optimal-vitamin-d-supplementation-health'>Optimal vitamin D supplementation</a>), and an extended discussion hosted externally (<a href='https://telegra.ph/Unlocking-the-Secrets-of-Optimal-Vitamin-D-Supplementation-for-Better-Health-01-04'>Telegraph: Optimal Vitamin D Supplementation</a>). Additional general information is available at <a href='https://www.topvitamine.com'>Topvitamine</a>.
+
+If you experience persistent or progressive vision changes, seek a clinical evaluation to exclude ocular disease and to test for treatable nutritional deficiencies.
