@@ -1,0 +1,21 @@
+## What Disease Causes Vitamin B12 to Drop?
+
+Vitamin B12 deficiency most commonly arises from problems with absorption rather than insufficient intake. Several diseases and medical interventions interfere with the stomach–intestine processes required to liberate B12 from food, bind it to intrinsic factor, and enable uptake in the distal small intestine. Understanding these causes helps clinicians prioritize testing and appropriate supplementation strategies.
+
+Pernicious anemia is a leading autoimmune cause. In this condition the immune system damages gastric parietal cells or intrinsic factor directly, producing chronic atrophic gastritis and severely impairing B12 absorption. Without intrinsic factor, oral B12 is largely unabsorbed unless given in very high doses or by injection. Typical findings include macrocytic anemia, low serum B12, and positive intrinsic factor or parietal cell antibodies.
+
+Malabsorption syndromes involving the ileum also reduce B12 uptake. Crohn’s disease often affects the terminal ileum where active B12 absorption occurs; inflammation, ulceration, or surgical resection of this segment markedly lowers absorption capacity. Celiac disease flattens villi throughout the small intestine and can lead to wide-ranging micronutrient deficits including B12. Symptoms in these disorders may include fatigue, weight loss, diarrhea, and neurologic complaints; diagnosis relies on serology, endoscopy, and nutrient assays.
+
+Gastric surgeries that alter anatomy or remove stomach tissue—such as Roux-en-Y gastric bypass or total gastrectomy—decrease intrinsic factor production and gastric acid, both important for B12 processing. Postoperative patients commonly require routine monitoring and long-term supplementation to maintain adequate levels.
+
+Intestinal parasites can be an underrecognized cause in regions where they are endemic. The fish tapeworm, Diphyllobothrium latum, may compete for dietary B12 and elicit deficiency in affected hosts. Parasitic causes are confirmed by stool testing or endoscopic visualization and treated with specific antiparasitic agents along with nutritional replacement.
+
+Other autoimmune conditions, including autoimmune gastritis, and systemic disorders that alter gut integrity can indirectly promote B12 decline. Chronic use of certain medications (e.g., proton-pump inhibitors, metformin) and age-related hypochlorhydria also impair B12 release from food and increase deficiency risk.
+
+Diagnosis of B12 deficiency typically involves serum B12 measurement plus functional markers such as methylmalonic acid and homocysteine when results are borderline. Clinical features include fatigue, pallor, paresthesia, gait instability, cognitive changes, and, in advanced cases, neurologic damage that may be only partially reversible if treatment is delayed.
+
+Management depends on cause: intramuscular injections or high-dose oral/sublingual cobalamin are used when absorption is compromised, while treating underlying GI disease is essential for long-term correction. Regular monitoring is recommended for at-risk groups including older adults, individuals with GI diseases, post-gastric surgery patients, and strict vegetarians.
+
+For an accessible overview of causes and treatment considerations, see the article '[What disease causes vitamin B12 to drop?](https://www.topvitamine.com/blogs/news/what-disease-causes-vitamin-b12-drop)'. Related resources and supplement guidance are summarized in specialist and patient-facing pages such as <a href='https://topvitamine.github.io/topvitamins/best-supplements-for-energy-fight-fatigue-naturally-with-topvitamine'>Best supplements for energy</a>, and concise reviews like <a href='https://telegra.ph/Best-Supplements-for-Energy-Fight-Fatigue-Naturally-with-Topvitamine-12-15'>Best supplements overview</a>. Additional reference material can be found at <a href='https://www.topvitamine.com'>Topvitamine</a> and <a href=''>Silo-link1</a>.
+
+Key takeaways: test at-risk individuals, identify underlying causes, and provide appropriate B12 replacement to prevent irreversible neurologic injury.
